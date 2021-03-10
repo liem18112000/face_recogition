@@ -1,4 +1,4 @@
-from fr_ultis import *
+from fr_utils import *
 
 
 def triplet_loss(y_true, y_pred, alpha=0.2):
